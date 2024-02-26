@@ -23,7 +23,6 @@ Taking the structured data and visualizing it helps everyone to understand what 
 
 
 ## 5.	The Data:
-Here is the link to the dataset: https://catalog.data.gov/dataset/infectious-diseases-by-disease-county-year-and-sex-d8912
 The source of the data is from the California Department of Public Health, a division of the US Government.
 There are currently 189921 fields. This number can be brought down after cleaning and optimizing. Census data found from https://www.census.gov/ 
 I’ll attach the census CSVs that I’m working to organize. I’m in the process of filtering and changing the labels to make organization easier.  
