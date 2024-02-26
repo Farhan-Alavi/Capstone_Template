@@ -19,7 +19,7 @@ The source of the data is from the California Department of Public Health, a div
 There are currently 189921 fields. This number can be brought down aYer cleaning and op7mizing. Census data found from h[ps://www.census.gov/
 I’ll a[ach the census CSVs that I’m working to organize. I’m in the process of filtering and changing the labels to make organiza7on easier.
 
-## 6. The Alterna0ves:
+## 6. The Alternatives:
 I had several alterna7ve ideas. First was a baking recommender model based on the inpu[ed ingredients you had in your pantry, second was the number of doctors that have started offering Telehealth services aYer Covid, and third was trying to determine how many flight upgrades for a certain airline were bought using loyalty program miles or purchased as is.
 These alterna7ve areas of interest proved to be a challenge when looking for datasets that related to them. The Telehealth dataset had less than 1000 total fields, the baking recommender model isn’t usually too successful, and there would be no way of geeng the flight sales informa7on unless it was specifically given by the airline.
 Overall, the Disease dataset proved to be the most fruiful, not only because of its size but because of its covered material, and poten7al to adapt future predic7ons from the findings.
