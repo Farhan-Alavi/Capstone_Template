@@ -19,7 +19,8 @@ Below you'll find more detailed information regarding the datasets and a progres
 - Split the Disease and County fields into dummy variables.
 - Made a Linear Regression Model 
 - Found the correlations between all the variables.
-- Prepped a baseline model for Sprint 3 
+- Prepped a baseline model for Sprint 3
+- Attached Tableau EDA in the References folder. 
 
 ### Infectious Disease table
 | Column Name | Datatype |   |
