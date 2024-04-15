@@ -1,4 +1,4 @@
-#Sprint 0 - Project Overview and Area of Interest
+# Sprint 0 - Project Overview and Area of Interest
 - My area of interest is medicine. There are many opportunities that arise when working with medical data as it is continuously updated and ever evolving. Predictions can be made to try and forecast specific things such as the number of diseases that may be reported in a certain area or how well a certain medication will sell in another area based on historical trends. 
 
 - For my capstone project, the main idea is to train a **Predictive Machine Learning Model** to assess the number of **Infectious Diseases by Disease, County, Year, and Sex in California** from 2001 to 2022 and predict future cases based on historical data and demographics of the infected counties. 
