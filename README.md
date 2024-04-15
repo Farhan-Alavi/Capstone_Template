@@ -170,7 +170,7 @@ Below you'll find more detailed information regarding the datasets and a progres
 | Hispanic-Hawaiian Mixed Males       | Int64     |
 | Hispanic-Hawaiian Mixed Females     | Int64     |
 
-#Sprint 2: Data Processing and Baseline Modelling
+# Sprint 2: Data Processing and Baseline Modelling
 - Added the Male Cases and Female Cases fields back into the data set. 
 - Split the Disease and County fields into dummy variables.
 - Made a Linear Regression Model 
@@ -199,7 +199,7 @@ P-values:
 
 All the p-values are extremely small (0.000), indicating that the correlations are statistically significant. Overall, the results suggest that there is a strong positive linear relationship between Female and Male Cases and Total Cases. Additionally, moderate positive relationships exist between Total Cases and various demographic indicators like Population, Males, Females, etc. However, the correlations between diseases and Total Cases are generally low or negligible.
 
-#Sprint 3: Advanced Modelling and Refining the Data
+# Sprint 3: Advanced Modelling and Refining the Data
 - Using the Train/Test split from the Linear Regression Model in Sprint 2, I built upon that foundation by using various other models such as KNN-regressor, Decision Tree-regressor, Random Forest-regressor, Pipeline, Gradient Boost, and GridSearch 
 
 ### Comparing the models
